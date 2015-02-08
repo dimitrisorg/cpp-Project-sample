@@ -9,7 +9,7 @@ int main()
 
 	int carrots;           // declare an integer variable
 
-	carrots = 25;          // assign a value to the variable
+	carrots = 26;          // assign a value to the variable
 
 	cout << "I have ";
 	cout << carrots;       // display the value of the variable
